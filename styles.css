@@ -2,8 +2,13 @@
 	font-family: myfont;
 	src: url("PIXleft_5.ttf");
 	}
+@font-face {
+	font-family: myfont2;
+	src: url("Minecraftia-Regular.ttf");
+	}
+
 body,h1,h2,h4,h5{
-	font-family: 'raleway';
+	font-family: 'myfont2';
 	margin: 0px;
 }
 body, html {height: 100%}
@@ -14,9 +19,8 @@ p {line-height: 2}
   background-size: cover;
 }
 img {
-	height: 90%;
-	width: 90%;
-	border: 1px;
+	height: 100%;
+	width: 100%;
 	padding: 0px;
 }
 
