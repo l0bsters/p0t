@@ -7,9 +7,9 @@
 	src: url("Minecraftia-Regular.ttf");
 	}
 
-body,h1,h2,h4,h5{
+body,h1,h2,h5{
 	font-family: 'myfont';
-	margin: 0px;
+	margin: 20px;
 }
 h4 {
   font-family: 'myfont2';
