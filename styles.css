@@ -22,8 +22,8 @@ img {
 
 div.relative {
   position: relative;
-  width: 900px;
-  height: 700px;
+  width: 200px;
+  height: 900px;
 }
 
 div.absolute {
