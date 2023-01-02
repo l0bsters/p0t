@@ -11,6 +11,7 @@ body,h1,h2,h5{
 	font-family: 'myfont';
 	margin: 0px;
 }
+
 h4 {
   font-family: 'myfont2';
 }
@@ -36,8 +37,15 @@ img {
   top: 90%;
   left: 50%;
   transform: translate(-50%, -50%);
+  color: black;
 }
-
+.bottom-center{
+  position: absolute;
+  top: 99%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+}
 
 div.relative {
   position: relative;
