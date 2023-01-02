@@ -11,28 +11,27 @@ body,h1{
 	font-family: 'myfont';
 	margin: 0px;
 }
-
-
 img {
-	height: 100%;
-	width: 100%;
-	padding: 0px;
+  width:55%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
-.container {
-  position: relative;
-  text-align: center;
-  color: white;
+  .container {
+
+
 }
 .centered {
   position: absolute;
-  top: 90%;
+  top: 89%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: black;
 }
 .bottom-center{
   position: absolute;
-  top: 99%;
+  top: 97%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: black;
