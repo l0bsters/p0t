@@ -24,16 +24,16 @@ img {
 }
 .centered {
   position: absolute;
-  top: 89%;
+  top: 85%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: black;
 }
 .bottom-center{
   position: absolute;
-  top: 97%;
+  top: 94%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-10%, -10%);
   color: black;
 }
 
