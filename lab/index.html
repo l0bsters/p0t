@@ -51,6 +51,7 @@ body {
 
 </style>
 <body>
+  <div class ="centerer"></div>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
 
@@ -66,7 +67,7 @@ var line = d3.radialLine()
     .radius(function(d) { return d.y; })
     .angle(function(d) { return d.x / 180 * Math.PI; });
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("centerer").append("svg")
     .attr("width", diameter)
     .attr("height", diameter)
   .append("g")
