@@ -50,15 +50,17 @@ body {
 }
 .centerer{
   position: absolute;
-  left:10%;
+  left:20%;
+  top:   
 }
 </style>
 <body>
   <div class ="centerer"></div>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script>
-
-var diameter = 960,
+width = window.width();
+height=window.length();
+var diameter = width - 100,
     radius = diameter / 2,
     innerRadius = radius - 120;
 
