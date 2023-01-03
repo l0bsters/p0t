@@ -24,7 +24,7 @@ img {
 }
 .centered {
   position: absolute;
-  top: 83%;
+  top: 80%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: black;
@@ -32,9 +32,8 @@ img {
 .bottom-center{
   width:100%;
   position: absolute;
-  top: 91%;
-  left: 50%;
-  transform: translate(-10%, -30%);
+  top: 87%;
+  left: 40%;
   color: black;
 }
 
