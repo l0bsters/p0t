@@ -12,7 +12,7 @@ body,h1{
 	margin: 0px;
 }
 img {
-  height:70%;
+  height:65%;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -29,9 +29,16 @@ img {
   transform: translate(-50%, -50%);
   color: black;
 }
-.bottom-center{
+.bottom1-center{
   position: absolute;
-  top: 87%;
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%);
+  color: black;
+}
+.bottom2-center{
+  position: absolute;
+  top: 92%;
   left: 50%;
   transform: translate(-50%);
   color: black;
