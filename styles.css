@@ -32,14 +32,14 @@ img {
 .bottom1-center{
   position: absolute;
   top: 65%;
-  left:50%;
+  left:51%;
   transform: translate(-50%);
   color: black;
 }
 .bottom2-center{
   position: absolute;
   top: 69%;
-  left: 50%;
+  left: 51%;
   transform: translate(-50%);
   color: black;
 }
