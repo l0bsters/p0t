@@ -14,7 +14,7 @@ body,h1{
 img {
   height:55%;
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -24,21 +24,21 @@ img {
 }
 .centered {
   position: absolute;
-  top: 80%;
+  top: 62%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: black;
 }
 .bottom1-center{
   position: absolute;
-  top: 85%;
-  left: 50%;
+  top: 65%;
+  left:50%;
   transform: translate(-50%);
   color: black;
 }
 .bottom2-center{
   position: absolute;
-  top: 92%;
+  top: 69%;
   left: 50%;
   transform: translate(-50%);
   color: black;
